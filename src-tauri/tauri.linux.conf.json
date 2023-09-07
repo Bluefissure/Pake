@@ -14,7 +14,7 @@
       "longDescription": "",
       "resources": [],
       "shortDescription": "",
-      "targets": ["deb", "appimage"]
+      "targets": ["deb"]
     }
   }
 }

@@ -11,6 +11,11 @@
           "domain": "ff14risingstones.web.sdo.com",
           "windows": ["pake"],
           "enableTauriAPI": true
+        },
+        {
+          "domain": "login.u.sdo.com",
+          "windows": ["pake"],
+          "enableTauriAPI": true
         }
       ]
     },
