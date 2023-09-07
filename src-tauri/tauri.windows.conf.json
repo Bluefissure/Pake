@@ -1,14 +1,14 @@
 {
   "tauri": {
     "bundle": {
-      "icon": ["png/weread_256.ico", "png/weread_32.ico"],
-      "identifier": "com.pake.weread",
+      "icon": ["png/shizhijia_256.ico", "png/shizhijia_32.ico"],
+      "identifier": "com.pake.shizhijia",
       "active": true,
       "category": "DeveloperTool",
       "copyright": "",
       "externalBin": [],
       "longDescription": "",
-      "resources": ["png/weread_32.ico"],
+      "resources": ["png/shizhijia_32.ico"],
       "shortDescription": "",
       "targets": ["msi"],
       "windows": {

@@ -1,8 +1,8 @@
 {
   "tauri": {
     "bundle": {
-      "icon": ["icons/weread.icns"],
-      "identifier": "com.pake.weread",
+      "icon": ["icons/shizhijia.icns"],
+      "identifier": "com.pake.shizhijia",
       "active": true,
       "category": "DeveloperTool",
       "copyright": "",
