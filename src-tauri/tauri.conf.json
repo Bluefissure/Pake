@@ -16,6 +16,11 @@
           "domain": "login.u.sdo.com",
           "windows": ["pake"],
           "enableTauriAPI": true
+        },
+        {
+          "domain": "ui.ptlogin2.qq.com",
+          "windows": ["pake"],
+          "enableTauriAPI": true
         }
       ]
     },
