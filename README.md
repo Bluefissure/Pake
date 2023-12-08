@@ -26,7 +26,7 @@
 - 🎐 Nearly 20 times smaller than an Electron package (around 5M!)
 - 🚀 With Rust Tauri, Pake is much more lightweight and faster than JS-based frameworks.
 - 📦 Battery-included package — shortcut pass-through, immersive windows, and minimalist customization.
-- 👻 Pake is just a simple tool — replace the old bundle approach with Rust (though PWA is good enough).
+- 👻 Pake is just a simple tool — replace the old bundle approach with Tauri (though PWA is good enough).
 
 ## Popular Packages
 
@@ -60,8 +60,8 @@
         </td>
     </tr>
     <tr>
-        <td><img src=https://cdn.fliggy.com/upic/Ld5ZCJ.png width=600/></td>
-        <td><img src=https://gw.alipayobjects.com/zos/k/95/bcGBut.png width=600/></td>
+        <td><img src=https://cdn.fliggy.com/upic/5aO6yP.png width=600/></td>
+        <td><img src=https://cdn.fliggy.com/upic/Ztsx23.png width=600/></td>
     </tr>
     <tr>
       <td>YouTube Music
@@ -76,7 +76,7 @@
       </td>
     </tr>
     <tr>
-        <td><img src=https://cdn.fliggy.com/upic/iz3mtQ.png width=600/></td>
+        <td><img src=https://raw.githubusercontent.com/tw93/static/master/pic/12.png width=600/></td>
         <td><img src=https://gw.alipayobjects.com/zos/k/pn/1.jpg width=600/></td>
     </tr>
     <tr>
@@ -383,6 +383,13 @@ Pake's development can not be without these Hackers. They contributed a lot of c
             <img src="https://avatars.githubusercontent.com/u/5135405?v=4" width="90;" alt="piaoyidage"/>
             <br />
             <sub><b>Ranger</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/hetz">
+            <img src="https://avatars.githubusercontent.com/u/820141?v=4" width="90;" alt="hetz"/>
+            <br />
+            <sub><b>贺天卓</b></sub>
         </a>
     </td></tr>
 </table>
